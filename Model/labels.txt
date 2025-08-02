@@ -1,0 +1,10 @@
+0 Goodbye
+1 hello
+2 how
+3 I
+4 Large
+5 nice
+6 O
+7 R
+8 Small
+9 U
